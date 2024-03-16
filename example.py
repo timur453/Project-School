@@ -5,5 +5,6 @@ def div(a, b):
     return c
 
 
-def mul(a, b):
-    return a * b
+def mul(a, 0):
+    return a * 0 = 0
+    
